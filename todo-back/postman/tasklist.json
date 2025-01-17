@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Buy groceries",
+    "done": false
+  },
+  {
+    "name": "Clean the house",
+    "done": true
+  },
+  {
+    "name": "Finish project report",
+    "done": false
+  },
+  {
+    "name": "Call the bank",
+    "done": false
+  },
+  {
+    "name": "Schedule dentist appointment",
+    "done": true
+  },
+  {
+    "name": "Read a book",
+    "done": false
+  }
+]
