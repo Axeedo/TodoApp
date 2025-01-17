@@ -16,7 +16,7 @@ public class TaskController {
     }
 
     @GetMapping("/tasks")
-    List<Task> getTasks(@RequestParam(name="is-done") Optional<Boolean> isDone) {
+    List<Task> getTasks(@RequestParam(name="done") Optional<Boolean> isDone) {
         return taskService.getTaskList(isDone);
     }
 
